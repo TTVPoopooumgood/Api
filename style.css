@@ -1,17 +1,7 @@
 @import url(https://cdn.jsdelivr.net/gh/Overimagine1/old-discord-font/source.min.css);
 
 * {
-  // <uniquifier>: Use a unique and descriptive class name
-// <weight>: Use a value from 100 to 700
-
-.kalnia-glaze-<uniquifier> {
-  font-family: "Kalnia Glaze", serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
-
+  font-family: "Whitney", sans-serif;
   transition: width 0.5s ease, height 0.5s ease;
 }
 
